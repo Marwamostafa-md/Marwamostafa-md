@@ -121,7 +121,7 @@ I'm always excited to collaborate on interesting mobile development projects and
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marwamostafa3773@gmail.com)
 
 **📍 Location:** Cairo, Egypt  
-**💼 Status:** Open to full-time, internships, and freelance roles—remote, hybrid, or onsite! 
+**💼 Status:** Open to full-time, internships, and freelance roles—remote, hybrid, or onsite!   
 **🗣️ Languages:** Arabic (Native), English (Working Proficiency)
 
 ---
