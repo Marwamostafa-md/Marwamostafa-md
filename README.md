@@ -122,7 +122,6 @@ I'm always excited to collaborate on interesting mobile development projects and
 
 **📍 Location:** Cairo, Egypt  
 **💼 Status:** Open to full-time, internships, and freelance roles—remote, hybrid, or onsite! 
-
 **🗣️ Languages:** Arabic (Native), English (Working Proficiency)
 
 ---
